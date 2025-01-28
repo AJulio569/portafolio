@@ -1,6 +1,6 @@
 # Portafolio Profesional de Ana Gabriel
 
-![Logo Representativo](URL_DEL_LOGO)
+![Logo Representativo](https://raw.githubusercontent.com/AJulio569/portafolio/refs/heads/main/Imagem.png)
 
 ![Badge](https://img.shields.io/badge/Status-Activo-brightgreen)
 
